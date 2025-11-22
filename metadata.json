@@ -1,0 +1,5 @@
+{
+  "name": "Copy of VIX Sentiment Dashboard",
+  "description": "Real-time Stock Market Sentiment Indicator using Gemini Google Search Grounding to track the VIX index.",
+  "requestFramePermissions": []
+}
